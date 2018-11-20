@@ -8,27 +8,7 @@ using std::string;
 class User {
 private:
 public:
+
+	User();
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #endif
